@@ -7,6 +7,7 @@ July 2023<br>
 *Lead Data Scientist at AirAsia with more than 7 years of experience in data science in various industries, including Aviation, Retail, Automobile and Reinsurance*
 
 [See the presentation](https://drive.google.com/file/d/1ptC5qAuxsKJ8R3n9-RmpL0u196IASoBb/view?usp=drive_link)
+![presentation](https://github.com/icandra/customer_analysis_portfolio/blob/main/Customer%20Segmentation%20for%20EVERYTHING%20PLUS/images/title.png)
 
 ## Project Description
 This project aims to improve customer segmentation for Everything Plus: Plus a Little Bit More, an e-commerce company specializing in household goods. My team and I developed a new customer segmentation approach by analyzing transaction history data. The new segmentation should enable the company to create more personalized offers for different user groups, leading to a minimum 5% increase in conversion rates, revenue, and user retention.
@@ -34,3 +35,10 @@ The effectiveness of the new customer segmentation approach will be evaluated ba
 Based on the analysis results, recommendations will be provided to the Product Manager and the team. These recommendations may include strategies for creating personalized offers, targeting specific customer segments, and refining the segmentation approach further.
 
 ## Project At a Glance
+![libraries](https://github.com/icandra/customer_analysis_portfolio/blob/main/Customer%20Segmentation%20for%20EVERYTHING%20PLUS/images/libraries.png)
+![seasonal analysis](https://github.com/icandra/customer_analysis_portfolio/blob/main/Customer%20Segmentation%20for%20EVERYTHING%20PLUS/images/seasonal%20analysis.png)
+![pca feature engineering](https://github.com/icandra/customer_analysis_portfolio/blob/main/Customer%20Segmentation%20for%20EVERYTHING%20PLUS/images/PCA%20for%20filtering%20relevant%20features.png)
+![distortion score](https://github.com/icandra/customer_analysis_portfolio/blob/main/Customer%20Segmentation%20for%20EVERYTHING%20PLUS/images/Distortion%20Score%20Elbow%20for%20KMeans%20Clustering.png)
+![silhouette score](https://github.com/icandra/customer_analysis_portfolio/blob/main/Customer%20Segmentation%20for%20EVERYTHING%20PLUS/images/Silhouette%20score%20based%20on%20cluster's%20number.png)
+![3d rfm](https://github.com/icandra/customer_analysis_portfolio/blob/main/Customer%20Segmentation%20for%20EVERYTHING%20PLUS/images/RFM%20Data%20Clustering.png)
+![2d plots](https://github.com/icandra/customer_analysis_portfolio/blob/main/Customer%20Segmentation%20for%20EVERYTHING%20PLUS/images/2d%20plots%20_%20customer%20segmentation%20based%20on%20frequency%20and%20recency.png)
